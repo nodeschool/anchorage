@@ -12,3 +12,6 @@ Interested in NodeSchool Anchorage? Take a peek at our site: http://nodeschool.i
 
  - Alex Jones, [alexander.t.jones@gmail.com](mailto:alexander.t.jones@gmail.com)
  - You!
+
+##Imagery
+Love that image? Check out [avephoto](http://avephoto.com/) for more!
