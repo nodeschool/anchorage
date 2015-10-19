@@ -11,6 +11,7 @@ Interested in NodeSchool Anchorage? Take a peek at our site: http://nodeschool.i
 ## Team
 
  - Alex Jones, [alexander.t.jones@gmail.com](mailto:alexander.t.jones@gmail.com)
+ - Mike Humphrey, [@HeWhoKayaks](https://twitter.com/hewhokayaks)
  - You!
 
 ##Imagery
